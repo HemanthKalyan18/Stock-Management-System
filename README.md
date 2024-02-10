@@ -1,0 +1,2 @@
+# Stock-Management-System
+PYTHON FULL STACK DEVELOPMENT - SDP PROJECT
